@@ -1,0 +1,31 @@
+<templateSet group="Kotlin">
+  <template name="prm" value="$NAME$: $TYPE$" description="Kotlin param" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="Suggest Scala variable macro" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="vl" value="val $NAME$: $TYPE$ = $VALUE$" description="Kotlin val" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="kotlinSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="fun1" value="fun $NAME$($PARAM1$: $PARAM1TYPE$): $RETURN$ {&#10;$END$&#10;}" description="Function with one parameter" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM1TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <variable name="PARAM1" expression="kotlinSuggestVariableName()" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="v" value="$$END$" description="Interpolated variable" toReformat="false" toShortenFQNames="true" />
+  <template name="pln" value="println($END$)" description="println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="main" value="fun main(args: Array&lt;String&gt;) {&#10;    $END$   &#10;}" description="Kotlin main fun" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

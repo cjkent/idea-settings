@@ -1,0 +1,211 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="OG" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="chriskent" />
+    <option name="ITN_PASSWORD_CRYPT" value="Y2ExMWk1dDAyOQ==" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="KeyPromoter.Config">
+    <option name="textColor" value="0" />
+    <option name="borderColor" value="ff0000" />
+    <option name="backgroundColor" value="202040" />
+    <option name="menusEnabled" value="true" />
+    <option name="toolbarButtonsEnabled" value="true" />
+    <option name="toolWindowButtonsEnabled" value="true" />
+    <option name="allButtonsEnabled" value="false" />
+    <option name="displayTime" value="3000" />
+    <option name="flashAnimationDelay" value="150" />
+    <option name="proposeToCreateShortcutCount" value="3" />
+    <option name="fixedTipPosistion" value="false" />
+    <option name="popupTemplate" value="&lt;html&gt;&#10; &lt;body&gt;&#10;  &lt;table&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=8&gt;{0}&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=6&gt;{1} time(s)&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;  &lt;/table&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="0.10.16" last-modified="1376679908000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/bin/node">
+      <version-cache version="7.1.0" last-modified="1479900474000" />
+    </local-interpreter>
+  </component>
+  <component name="PlaybackDebugger" currentScript="" />
+  <component name="PluginManagerConfigurable" proportions="0.5" version="1">
+    <option name="AVAILABLE_SORT_MODE" value="0" />
+    <option name="AVAILABLE_SORT_BY_STATUS" value="false" />
+    <option name="myOutdatedPlugins">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myInstalledPlugins">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.intellij.clojure" />
+          <item index="1" class="java.lang.String" itemvalue="com.intellij.aspectj" />
+          <item index="2" class="java.lang.String" itemvalue="org.intellij.scala" />
+          <item index="3" class="java.lang.String" itemvalue="GenerateToString" />
+          <item index="4" class="java.lang.String" itemvalue="com.intellij.dmserver" />
+          <item index="5" class="java.lang.String" itemvalue="com.intellij.appengine" />
+          <item index="6" class="java.lang.String" itemvalue="GuiceyIDEA" />
+          <item index="7" class="java.lang.String" itemvalue="Osmorc" />
+          <item index="8" class="java.lang.String" itemvalue="Resin" />
+          <item index="9" class="java.lang.String" itemvalue="IvyIDEA" />
+          <item index="10" class="java.lang.String" itemvalue="XSLT-Debugger" />
+          <item index="11" class="java.lang.String" itemvalue="CheckStyle-IDEA" />
+        </list>
+      </value>
+    </option>
+    <available-proportions proportions="0.5" version="1" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Analytics/src/com/opengamma/financial/convention/daycount/DayCount.properties" separator="\u002f" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Bloomberg/src/log4j.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Language/build.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/build.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/GreshamStreet/config/GlobeOpDefaults.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Integration/config/demoViewProcessor-shareddev.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Integration/config/demoMasters-shareddev.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Web/config/com/opengamma/web/marketdata.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Language/Client/src/com/opengamma/language/object/ObjectFunctionProvider.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/CharterhouseStreet/config/demoMasters-shareddev.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Excel/build.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/GreshamStreet/config/demoMasters-shareddev.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/common/ogdev.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/GreshamStreet/config/db.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/KingsRoad/config/toolcontext/toolcontext-kingsroad.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/GreshamStreet/build.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Integration/config/OpenGamma.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Excel/Ext/src/com/opengamma/excel/udf/portfolio/Grid.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Language/build/OpenGamma.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/common/credentials.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/GreshamStreet/config/server.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Analytics/src/com/opengamma/financial/convention/businessday/BusinessDayConvention.properties" separator="\u0020" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Excel/build/OpenGamma.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/opengamma/OG-Platform/projects/OG-Integration/config/demoViewProcessor-standalone.properties" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_PRESERVE_RAW_ARRAYS" value="false" />
+    <option name="TYPE_COOK_LEAVE_OBJECT_PARAMETERIZED_TYPES_RAW" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_COMMENTS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_NON_JAVA" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="LAST_TEMPLATE" value="Java/Maven" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://ivyidea.googlecode.com/svn/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://ivyidea.googlecode.com/svn/trunk/" />
+      </list>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler" />
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="Find Usages" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+        <option value="VCS Update" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/gdrive">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/gdrive" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" PathToXmlBeans="$USER_HOME$/Library/Caches/IntelliJIdea11/webservices/xmlbeans-2.3.0" ASK_TO_INSTALL_SOAPUI="true" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="XSLT Stylesheet" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="antlib:org.apache.ivy.ant" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_WORD" />
+</application>
