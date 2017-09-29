@@ -101,6 +101,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.kahadb" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.hssf.util.HSSFColor" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.sl.draw.geom.Path" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.ss" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.util.StringUtil" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.cache.Cache" />
