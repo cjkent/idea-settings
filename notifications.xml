@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Clojure" displayType="STICKY_BALLOON" />
+    <notification groupId="Configure Kotlin in Project" displayType="NONE" />
     <notification groupId="Database" displayType="TOOL_WINDOW" />
     <notification groupId="Database editor log" displayType="NONE" />
     <notification groupId="Database log" displayType="NONE" />
