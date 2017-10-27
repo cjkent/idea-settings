@@ -1,0 +1,19 @@
+<templateSet group="SQL">
+  <template name="sela" value="select * from $table$ $alias$ where $alias$.$END$;" description="select * from table with alias" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="col" value="$col$ $type$ $null$$END$" description="new column definition" toReformat="true" toShortenFQNames="false">
+    <variable name="col" expression="" defaultValue="&quot;col&quot;" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="&quot;int&quot;" alwaysStopAt="true" />
+    <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="foo" value="FOOFOOFOO" description="whatever" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

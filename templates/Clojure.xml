@@ -1,0 +1,12 @@
+<templateSet group="Clojure">
+  <template name="defr" value="(defrecord $Name$ [$fields$]&#10;  $Protocol$&#10;  $END$)" description="defrecord" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <variable name="fields" expression="" defaultValue="&quot;fields&quot;" alwaysStopAt="true" />
+    <variable name="Protocol" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="is" value="(is (= $first$ $second$))" description="clojure.test 'is' assertion" toReformat="false" toShortenFQNames="true">
+    <variable name="first" expression="" defaultValue="&quot;first&quot;" alwaysStopAt="true" />
+    <variable name="second" expression="" defaultValue="&quot;second&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

@@ -1,0 +1,67 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Android Module Importing" />
+    <notification groupId="Android Property Files Updating" />
+    <notification groupId="Browser Connection" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Clojure" displayType="STICKY_BALLOON" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compile" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Error Report" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Facet Detector" />
+    <notification groupId="Flex messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Git Important Errors" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Gradle warnings" displayType="TOOL_WINDOW" />
+    <notification groupId="Grape" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Indexing" shouldLog="false" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Kotlin External annotations" displayType="STICKY_BALLOON" />
+    <notification groupId="Load Error" />
+    <notification groupId="Maven" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Maven: non-managed pom.xml" displayType="NONE" shouldLog="false" />
+    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
+    <notification groupId="Outdated Kotlin Runtime" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Plugin Settings Error" />
+    <notification groupId="Plugins Lifecycle Group" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Repository" />
+    <notification groupId="RVM Support" />
+    <notification groupId="scala" />
+    <notification groupId="Skeletons" />
+    <notification groupId="Source searcher" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" />
+    <notification groupId="System Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="update.available.group" />
+    <notification groupId="Updater" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+  </component>
+</application>
