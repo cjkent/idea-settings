@@ -788,6 +788,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="@ff" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="@kf" />
         </TemplateKey>
         <TemplateKey>
@@ -2512,6 +2516,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="lg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="whs" />
         </TemplateKey>
         <TemplateKey>
@@ -3624,6 +3632,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Kotlin" />
+          <option name="key" value="soutf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
           <option name="key" value="iter" />
         </TemplateKey>
         <TemplateKey>
@@ -3793,6 +3805,106 @@
         <TemplateKey>
           <option name="groupName" value="Clojure" />
           <option name="key" value="whenl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="loop" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="whilel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="whilels" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="fori" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="p" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="pr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="pd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="ppd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="fmt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="wrt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="wrtn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="ae" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="tfn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="bfn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="tmod" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="f" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="pf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="main" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="macro" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="ifl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="ifls" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rust" />
+          <option name="key" value="closure" />
         </TemplateKey>
       </list>
     </option>

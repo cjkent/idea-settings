@@ -7,7 +7,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="pr" value="${$PROP_NAME$}$END$" description="Property" toReformat="false" toShortenFQNames="true">
+  <template name="prp" value="${$PROP_NAME$}$END$" description="Property" toReformat="false" toShortenFQNames="true">
     <variable name="PROP_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY" value="true" />
@@ -652,6 +652,11 @@
   <template name="str" value="String" description="String" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="pv" value="private val " description="private val" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
 </templateSet>
