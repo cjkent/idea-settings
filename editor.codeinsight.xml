@@ -86,6 +86,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="jersey.repackaged" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="kotlin.reflect.memberProperties" />
     <EXCLUDED_PACKAGE NAME="net.sf.cglib" />
     <EXCLUDED_PACKAGE NAME="net.sf.saxon" />
     <EXCLUDED_PACKAGE NAME="oracle.jrockit" />
