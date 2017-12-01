@@ -145,6 +145,9 @@
   <action id="Macro.right space plus space">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="MarkNotificationsAsRead">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
