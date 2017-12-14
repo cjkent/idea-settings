@@ -108,6 +108,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.env.Environment" />
     <EXCLUDED_PACKAGE NAME="org.apache.taglibs.standard.lang.jstl.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.tools.ant" />
+    <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.store.Locale" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.internal" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Arrays" />
