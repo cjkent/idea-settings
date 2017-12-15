@@ -106,6 +106,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.poi.util.StringUtil" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.cache.Cache" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.env.Environment" />
+    <EXCLUDED_PACKAGE NAME="org.apache.sshd.common.util.Pair" />
     <EXCLUDED_PACKAGE NAME="org.apache.taglibs.standard.lang.jstl.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.tools.ant" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.store.Locale" />
