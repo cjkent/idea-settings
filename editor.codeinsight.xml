@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Predicate" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.name.Named" />
+    <EXCLUDED_PACKAGE NAME="com.lchclearnet" />
     <EXCLUDED_PACKAGE NAME="com.lchclearnet.index.data.Index" />
     <EXCLUDED_PACKAGE NAME="com.mongodb" />
     <EXCLUDED_PACKAGE NAME="com.opengamma.DataNotFoundException" />
