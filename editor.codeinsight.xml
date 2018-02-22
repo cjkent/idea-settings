@@ -119,6 +119,8 @@
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.util.log.Logger" />
     <EXCLUDED_PACKAGE NAME="org.fpml.fpml_5" />
     <EXCLUDED_PACKAGE NAME="org.fudgemsg.proto.antlr" />
+    <EXCLUDED_PACKAGE NAME="org.gradle.initialization.LoadProjectsBuildOperationType" />
+    <EXCLUDED_PACKAGE NAME="org.gradle.internal" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.bytecode" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.cfg.Environment" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.dialect" />
