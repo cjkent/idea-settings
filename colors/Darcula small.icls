@@ -166,10 +166,22 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="5957ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="a158b3" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -193,6 +205,12 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="5957ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -692,6 +710,11 @@
         <option name="FOREGROUND" value="a5c25c" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="4646ff" />
+      </value>
+    </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -707,9 +730,19 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="9b55d1" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ca56c8" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">

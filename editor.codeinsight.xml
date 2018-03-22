@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Predicate" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.name.Named" />
+    <EXCLUDED_PACKAGE NAME="com.lchclearnet" />
     <EXCLUDED_PACKAGE NAME="com.lchclearnet.index.data.Index" />
     <EXCLUDED_PACKAGE NAME="com.mongodb" />
     <EXCLUDED_PACKAGE NAME="com.opengamma.DataNotFoundException" />
@@ -106,8 +107,10 @@
     <EXCLUDED_PACKAGE NAME="org.apache.poi.util.StringUtil" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.cache.Cache" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.env.Environment" />
+    <EXCLUDED_PACKAGE NAME="org.apache.sshd.common.util.Pair" />
     <EXCLUDED_PACKAGE NAME="org.apache.taglibs.standard.lang.jstl.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.tools.ant" />
+    <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.store.Locale" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.internal" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Arrays" />
@@ -119,8 +122,6 @@
     <EXCLUDED_PACKAGE NAME="org.eclipse.jetty.util.log.Logger" />
     <EXCLUDED_PACKAGE NAME="org.fpml.fpml_5" />
     <EXCLUDED_PACKAGE NAME="org.fudgemsg.proto.antlr" />
-    <EXCLUDED_PACKAGE NAME="org.gradle.initialization.LoadProjectsBuildOperationType" />
-    <EXCLUDED_PACKAGE NAME="org.gradle.internal" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.bytecode" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.cfg.Environment" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.dialect" />
