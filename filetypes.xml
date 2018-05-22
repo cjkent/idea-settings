@@ -28,17 +28,17 @@
       <mapping pattern="_core" type="PLAIN_TEXT" />
       <mapping pattern="_list" type="PLAIN_TEXT" />
       <mapping pattern="_rotated-flipped" type="PLAIN_TEXT" />
-      <mapping pattern="_path" type="PLAIN_TEXT" />
+      <mapping pattern="_larger" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping pattern="fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="_variables" type="PLAIN_TEXT" />
       <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
-      <mapping pattern="_larger" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="font-awesome" type="PLAIN_TEXT" />
       <mapping pattern="_spinning" type="PLAIN_TEXT" />
       <mapping pattern="bordered-pulled" type="PLAIN_TEXT" />
+      <mapping pattern="_path" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
       <mapping pattern="_stacked" type="PLAIN_TEXT" />
