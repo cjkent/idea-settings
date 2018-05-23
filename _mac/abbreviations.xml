@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="RecentProjectListGroup">
+        <abbreviation name="or" />
+      </action>
+      <action id="CompileProject">
+        <abbreviation name="rp" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
