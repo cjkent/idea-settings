@@ -1,0 +1,24 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CloseProject">
+        <abbreviation name="cp" />
+      </action>
+      <action id="Git.Rebase">
+        <abbreviation name="rb" />
+      </action>
+      <action id="Git.Merge">
+        <abbreviation name="mrg" />
+      </action>
+      <action id="RecentProjectListGroup">
+        <abbreviation name="or" />
+      </action>
+      <action id="Github.Create.Pull.Request">
+        <abbreviation name="pr" />
+      </action>
+      <action id="CompileProject">
+        <abbreviation name="rp" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
