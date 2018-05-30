@@ -8,6 +8,7 @@
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
     <EXCLUDED_PACKAGE NAME="EDU.oswego.cs.dl.util.concurrent.Callable" />
     <EXCLUDED_PACKAGE NAME="EDU.oswego.cs.dl.util.concurrent.ReadWriteLock" />
     <EXCLUDED_PACKAGE NAME="antlr.StringUtils" />
