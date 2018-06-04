@@ -3,6 +3,7 @@
     <option name="browserPath" value="/Applications/Firefox.app" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
@@ -14,5 +15,6 @@
     <entry key="editor.zero.latency.typing" value="true" />
     <entry key="ide.projectView.globalOptions" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="705" />
   </component>
 </application>
