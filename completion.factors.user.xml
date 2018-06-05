@@ -168,7 +168,7 @@
         <observation name="typedSelect" value="4.0" />
       </dailyData>
       <dailyData date="5-6-2018">
-        <observation name="cancelled" value="23.0" />
+        <observation name="cancelled" value="24.0" />
         <observation name="explicitSelect" value="2.0" />
         <observation name="typedSelect" value="2.0" />
       </dailyData>
@@ -179,7 +179,7 @@
         <observation name="SMART" value="2.0" />
       </dailyData>
       <dailyData date="5-6-2018">
-        <observation name="BASIC" value="6.0" />
+        <observation name="BASIC" value="7.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -187,7 +187,7 @@
         <observation name="count" value="409.0" />
       </dailyData>
       <dailyData date="5-6-2018">
-        <observation name="count" value="27.0" />
+        <observation name="count" value="28.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
