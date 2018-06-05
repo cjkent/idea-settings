@@ -224,6 +224,9 @@
   <action id="ToggleFloatingMode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="TogglePinnedMode">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="Tool_External Tools_Regenerate Joda Bean">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
