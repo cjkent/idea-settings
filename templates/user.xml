@@ -10,9 +10,7 @@
   <template name="prp" value="${$PROP_NAME$}$END$" description="Property" toReformat="false" toShortenFQNames="true">
     <variable name="PROP_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY" value="true" />
-      <option name="KOTLIN" value="true" />
-      <option name="XML" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
   <template name="lnk" value="{@link $TEXT$}$END$" description="Javadoc link" toReformat="false" toShortenFQNames="true">
@@ -651,6 +649,24 @@
   <template name="vd" value="valuationDate" description="valuationDate" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="t0" value="() =&gt; $END$" description="Zero param TypeScript arrow function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="t1" value="$PARAM$ =&gt; $END$" description="Single param TypeScript arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="t2" value="($PARAM1$, $PARAM2$) =&gt; $END$" description="Two param TypeScript arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
