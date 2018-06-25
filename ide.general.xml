@@ -13,5 +13,6 @@
     <entry key="show.live.templates.in.completion" value="false" />
     <entry key="editor.zero.latency.typing" value="true" />
     <entry key="ide.projectView.globalOptions" value="false" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
