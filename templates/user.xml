@@ -12,6 +12,7 @@
     <context>
       <option name="GROOVY" value="true" />
       <option name="KOTLIN" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="XML" value="true" />
     </context>
   </template>
