@@ -94,6 +94,7 @@
     <EXCLUDED_PACKAGE NAME="oracle.jrockit" />
     <EXCLUDED_PACKAGE NAME="org.antlr.grammar.v3" />
     <EXCLUDED_PACKAGE NAME="org.apache.activemq" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.StringUtils" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.math.util.DoubleArray" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.math3.util.DoubleArray" />
