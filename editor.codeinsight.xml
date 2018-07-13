@@ -83,6 +83,7 @@
     <EXCLUDED_PACKAGE NAME="javax.swing.text.ViewFactory" />
     <EXCLUDED_PACKAGE NAME="javax.swing.text.html" />
     <EXCLUDED_PACKAGE NAME="javax.xml.transform.Result" />
+    <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.MessageContext" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.internal.util.xml.impl.Pair" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
