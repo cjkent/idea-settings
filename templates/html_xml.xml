@@ -4,6 +4,7 @@
     <variable name="TAG_NAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context>
       <option name="HTML_TEXT" value="true" />
+      <option name="JSP" value="true" />
       <option name="XSL_TEXT" value="true" />
     </context>
   </template>
@@ -22,6 +23,7 @@
   </template>
   <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <context>
+      <option name="JSP" value="true" />
       <option name="XSL_TEXT" value="true" />
     </context>
   </template>
