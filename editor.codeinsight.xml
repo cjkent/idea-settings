@@ -83,6 +83,7 @@
     <EXCLUDED_PACKAGE NAME="javax.swing.text.ViewFactory" />
     <EXCLUDED_PACKAGE NAME="javax.swing.text.html" />
     <EXCLUDED_PACKAGE NAME="javax.xml.transform.Result" />
+    <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.MessageContext" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.internal.util.xml.impl.Pair" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
@@ -94,6 +95,7 @@
     <EXCLUDED_PACKAGE NAME="oracle.jrockit" />
     <EXCLUDED_PACKAGE NAME="org.antlr.grammar.v3" />
     <EXCLUDED_PACKAGE NAME="org.apache.activemq" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.StringUtils" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.math.util.DoubleArray" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.math3.util.DoubleArray" />
@@ -104,6 +106,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.kahadb" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.hssf.util.HSSFColor" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.sl.draw.geom.Path" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.ss" />
     <EXCLUDED_PACKAGE NAME="org.apache.poi.util.StringUtil" />
     <EXCLUDED_PACKAGE NAME="org.apache.shiro.cache.Cache" />

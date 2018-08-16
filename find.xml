@@ -12,6 +12,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.gradle</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>

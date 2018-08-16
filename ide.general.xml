@@ -14,5 +14,6 @@
     <entry key="editor.zero.latency.typing" value="true" />
     <entry key="ide.projectView.globalOptions" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="396" />
   </component>
 </application>
