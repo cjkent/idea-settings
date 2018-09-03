@@ -13,5 +13,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
