@@ -78,6 +78,36 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="ReferenceData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.strata.basics.ReferenceData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.strata.basics.ReferenceData" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="MarketData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.MarketData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.MarketData" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" expression="toString()" language="JAVA" mode="CODE_FRAGMENT" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
