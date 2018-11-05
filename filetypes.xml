@@ -21,7 +21,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
