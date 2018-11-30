@@ -22,6 +22,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="command" type="Bash" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
@@ -32,6 +33,7 @@
       <mapping pattern="_rotated-flipped" type="PLAIN_TEXT" />
       <mapping pattern="_larger" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
+      <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="_variables" type="PLAIN_TEXT" />
@@ -45,10 +47,9 @@
       <mapping pattern="icons" type="PLAIN_TEXT" />
       <mapping pattern="_stacked" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
-      <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="spinning" type="PLAIN_TEXT" />
       <mapping pattern="_fixed-width" type="PLAIN_TEXT" />
-      <mapping pattern="core" type="PLAIN_TEXT" />
+      <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="_icons" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="jfr" type="PLAIN_TEXT" />
