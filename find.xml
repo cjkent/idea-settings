@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../tool/src/main/java/com/opengamma/carma/tool/spec/UploadTenantPortfolioFile.java [carma-tool]'" />
+    <option name="defaultScopeName" value="File '.../tool/src/main/java/com/opengamma/carma/tool/spec/UploadTenantPortfolioFile.java [carma-tool]'" />
+    <option name="SEARCH_SCOPE" value="File '.../tool/src/main/java/com/opengamma/carma/tool/spec/UploadTenantPortfolioFile.java [carma-tool]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
