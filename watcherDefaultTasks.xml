@@ -25,7 +25,7 @@
         <option name="arguments" value="-cp $Classpath$ org.joda.beans.gen.BeanCodeGen -indent=2 $FileDir$/$FileName$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
-        <option name="exitCodeBehavior" value="ALWAYS" />
+        <option name="exitCodeBehavior" value="ERROR" />
         <option name="fileExtension" value="java" />
         <option name="immediateSync" value="false" />
         <option name="name" value="Regenerate Joda Beans" />
