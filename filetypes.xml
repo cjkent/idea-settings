@@ -55,6 +55,7 @@
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="ktl" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="elsql" type="SQL" />
       <mapping ext="template" type="YAML" />
       <mapping ext="command" type="Bash" />
