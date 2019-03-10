@@ -10,10 +10,23 @@
   <template name="prp" value="${$PROP_NAME$}$END$" description="Property" toReformat="false" toShortenFQNames="true">
     <variable name="PROP_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY" value="true" />
-      <option name="KOTLIN" value="true" />
-      <option name="TypeScript" value="true" />
-      <option name="XML" value="true" />
+      <option name="AsciiDoc" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="Django" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="RUST_FILE" value="false" />
+      <option name="SQL" value="false" />
     </context>
   </template>
   <template name="lnk" value="{@link $TEXT$}$END$" description="Javadoc link" toReformat="false" toShortenFQNames="true">
@@ -210,22 +223,6 @@
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="v" value="[$END$]" description="vector" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS" value="false" />
-      <option name="GROOVY" value="false" />
-      <option name="HTML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="JSP" value="false" />
-      <option name="MAVEN" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
     </context>
   </template>
   <template name="tn" value="$VAR$ == null ? null : $VAR$.$END$" description="Ternary null" toReformat="true" toShortenFQNames="true">
@@ -500,7 +497,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="hrc" value="// ===================================================================================================================" description="Horizontal rule between classes" toReformat="false" toShortenFQNames="true">
+  <template name="hrc" value="//===================================================================================================================" description="Horizontal rule between classes" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>

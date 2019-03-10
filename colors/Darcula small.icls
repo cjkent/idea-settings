@@ -15,6 +15,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f64f00" />
     <option name="GUTTER_BACKGROUND" value="313335" />
     <option name="INDENT_GUIDE" value="4d4d4d" />
+    <option name="INFORMATION_HINT" value="616363" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="7180" />
@@ -330,8 +331,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9ca4a9" />
-        <option name="EFFECT_COLOR" value="878787" />
+        <option name="FOREGROUND" value="acb6bb" />
+        <option name="BACKGROUND" value="444749" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -427,6 +428,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="27332c" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
