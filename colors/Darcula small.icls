@@ -1015,6 +1015,11 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="org.rust.DOC_CODE">
+      <value>
+        <option name="FOREGROUND" value="7e7e7e" />
+      </value>
+    </option>
     <option name="org.rust.FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffffff" />
