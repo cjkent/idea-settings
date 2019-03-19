@@ -44,5 +44,8 @@
       <shortuct text="ESCAPE" />
       <action id="ReformatCode" />
     </macro>
+    <macro name="Type underscore">
+      <typing text-keycode="0:1">_</typing>
+    </macro>
   </component>
 </application>
