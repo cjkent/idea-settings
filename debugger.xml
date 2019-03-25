@@ -84,13 +84,23 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="EurexVersionedMarginData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.service.marketdata.conversion.large.eurex.EurexVersionedMarginData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.service.marketdata.conversion.large.eurex.EurexVersionedMarginData" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;{valuationDate: &quot; + this.getValuationDate() + &quot;, scenarios: &quot; + this.getData().getMarketData().keySet() + &quot;}&quot;&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="Eurex ImmutableMarginData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.data.ImmutableMarginData" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.data.ImmutableMarginData" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="&quot;ImmutableMarginData { valuationDate: &quot; + this.getValuationDate() + &quot;, scenarios: &quot; + this.getMarketData().keySet() + &quot;}&quot;&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="&quot;{valuationDate: &quot; + this.getValuationDate() + &quot;, scenarios: &quot; + this.getMarketData().keySet() + &quot;}&quot;&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
       <Renderer ID="CompoundTypeRenderer">
