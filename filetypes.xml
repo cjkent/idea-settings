@@ -43,11 +43,11 @@
       <mapping pattern="bordered-pulled" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
-      <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
+      <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="spinning" type="PLAIN_TEXT" />
       <mapping pattern="_fixed-width" type="PLAIN_TEXT" />
-      <mapping pattern="_mixins" type="PLAIN_TEXT" />
+      <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="_icons" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="jfr" type="PLAIN_TEXT" />
