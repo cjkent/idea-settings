@@ -108,6 +108,51 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_10">
+      <value>
+        <option name="FOREGROUND" value="c2b284" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_2">
+      <value>
+        <option name="FOREGROUND" value="6093c2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_3">
+      <value>
+        <option name="FOREGROUND" value="c26f32" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_4">
+      <value>
+        <option name="FOREGROUND" value="58acc2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_5">
+      <value>
+        <option name="FOREGROUND" value="c282ba" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_6">
+      <value>
+        <option name="FOREGROUND" value="5776c2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_7">
+      <value>
+        <option name="FOREGROUND" value="c2ba57" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_8">
+      <value>
+        <option name="FOREGROUND" value="46c28c" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_9">
+      <value>
+        <option name="FOREGROUND" value="a990c2" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="287bde" />
