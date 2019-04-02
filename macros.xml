@@ -39,5 +39,20 @@
     <macro name="Type underscore">
       <typing text-keycode="0:1">_</typing>
     </macro>
+    <macro name="Convert Javadoc single to multiple">
+      <action id="EditorLineStart" />
+      <action id="EditorLineStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorBackSpace" />
+      <action id="EditorEnter" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+    </macro>
   </component>
 </application>
