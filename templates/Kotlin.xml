@@ -16,6 +16,7 @@
     <variable name="PARAM1TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
     <variable name="PARAM1" expression="kotlinSuggestVariableName()" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
     <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="v" value="$$END$" description="Interpolated variable" toReformat="false" toShortenFQNames="true" />
   <template name="pln" value="println($END$)" description="println" toReformat="false" toShortenFQNames="true">
@@ -24,5 +25,7 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="main" value="fun main(args: Array&lt;String&gt;) {&#10;    $END$   &#10;}" description="Kotlin main fun" toReformat="false" toShortenFQNames="true" />
+  <template name="main" value="fun main(args: Array&lt;String&gt;) {&#10;    $END$   &#10;}" description="Kotlin main fun" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
