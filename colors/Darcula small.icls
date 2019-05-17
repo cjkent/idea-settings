@@ -108,6 +108,51 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_10">
+      <value>
+        <option name="FOREGROUND" value="c2b284" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_2">
+      <value>
+        <option name="FOREGROUND" value="6093c2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_3">
+      <value>
+        <option name="FOREGROUND" value="c26f32" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_4">
+      <value>
+        <option name="FOREGROUND" value="58acc2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_5">
+      <value>
+        <option name="FOREGROUND" value="c282ba" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_6">
+      <value>
+        <option name="FOREGROUND" value="5776c2" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_7">
+      <value>
+        <option name="FOREGROUND" value="c2ba57" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_8">
+      <value>
+        <option name="FOREGROUND" value="46c28c" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_9">
+      <value>
+        <option name="FOREGROUND" value="a990c2" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -180,7 +225,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="a158b3" />
+        <option name="FOREGROUND" value="a77db3" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -239,7 +284,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="cc8952" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -255,7 +300,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fff7ab" />
+        <option name="FOREGROUND" value="fff9bf" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -518,11 +563,6 @@
         <option name="FOREGROUND" value="a5c25c" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
@@ -810,6 +850,9 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value />
+    </option>
     <option name="RUBY_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -836,6 +879,11 @@
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
         <option name="FOREGROUND" value="fff7ab" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_NUMBER">

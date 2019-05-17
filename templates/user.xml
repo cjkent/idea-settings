@@ -18,7 +18,6 @@
       <option name="ECMAScript6" value="false" />
       <option name="HTML" value="false" />
       <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="JSP" value="false" />
       <option name="MAVEN" value="false" />
@@ -273,7 +272,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="lgr" value="&lt;logger name=&quot;$NAME$&quot; level=&quot;$LEVEL$&quot;/&gt;" description="Logback XML logger definition" toReformat="true" toShortenFQNames="true">
+  <template name="lgr" value="&lt;Logger name=&quot;$NAME$&quot; level=&quot;$LEVEL$&quot;/&gt;" description="Log4j2 XML logger definition" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LEVEL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
