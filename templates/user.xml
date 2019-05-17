@@ -494,8 +494,6 @@
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
       <option name="KOTLIN" value="true" />
-      <option name="RUST_FILE" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="hrc" value="//===================================================================================================================" description="Horizontal rule between classes" toReformat="false" toShortenFQNames="true">
