@@ -4,7 +4,7 @@
     <property name="created">2019-05-16T16:23:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-05-20T08:48:50</property>
+    <property name="modified">2019-05-22T15:12:57</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -581,7 +581,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
