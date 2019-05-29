@@ -22,6 +22,7 @@
     <extensionMap>
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
