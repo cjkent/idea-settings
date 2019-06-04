@@ -32,7 +32,6 @@
       <mapping pattern="spinning" type="PLAIN_TEXT" />
       <mapping pattern="_core" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
-      <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="_spinning" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
@@ -45,6 +44,7 @@
       <mapping pattern="_stacked" type="PLAIN_TEXT" />
       <mapping pattern="_fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="_path" type="PLAIN_TEXT" />
+      <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="glyphicons-halflings-regular" type="PLAIN_TEXT" />
       <mapping pattern="font-awesome" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
