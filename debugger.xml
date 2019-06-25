@@ -84,6 +84,36 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="MarginingCurveData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.MarginingCurveData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.MarginingCurveData" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="RatesCurveGroup" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.strata.market.curve.RatesCurveGroup" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.strata.market.curve.RatesCurveGroup" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="EurexScenarioData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.EurexScenarioData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.EurexScenarioData" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="ImmutableScenarioMarketData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.scenario.ImmutableScenarioMarketData" />
