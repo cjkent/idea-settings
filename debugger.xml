@@ -84,6 +84,16 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="DefaultLookupRatesProvider" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.opengamma.strata.measure.rate.DefaultLookupRatesProvider" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.opengamma.strata.measure.rate.DefaultLookupRatesProvider" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="RepeatedScenarioMarketData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.scenario.RepeatedScenarioMarketData" />
