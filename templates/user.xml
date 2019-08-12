@@ -677,4 +677,10 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="klog" value="private val log = LoggerFactory.getLogger(&quot;$PACKAGE$&quot;)" description="Kotlin logger declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="PACKAGE" expression="kotlinPackageName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
