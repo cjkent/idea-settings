@@ -49,7 +49,9 @@
     <EXCLUDED_PACKAGE NAME="com.rabbitmq.tools.Tracer.Logger" />
     <EXCLUDED_PACKAGE NAME="com.sleepycat" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport" />
     <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport.java.util.Collections" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport.java.util.concurrent.Future" />
     <EXCLUDED_PACKAGE NAME="freemarker.core.Environment" />
     <EXCLUDED_PACKAGE NAME="freemarker.log.Logger" />
     <EXCLUDED_PACKAGE NAME="freemarker.template.utility.StringUtil" />
