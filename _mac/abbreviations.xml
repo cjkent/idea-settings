@@ -1,14 +1,14 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="CloseProject">
-        <abbreviation name="cp" />
+      <action id="Git.Merge">
+        <abbreviation name="mrg" />
       </action>
       <action id="Git.Rebase">
         <abbreviation name="rb" />
       </action>
-      <action id="Git.Merge">
-        <abbreviation name="mrg" />
+      <action id="CloseProject">
+        <abbreviation name="cp" />
       </action>
       <action id="RecentProjectListGroup">
         <abbreviation name="or" />
@@ -18,6 +18,9 @@
       </action>
       <action id="CompileProject">
         <abbreviation name="rp" />
+      </action>
+      <action id="Unscramble">
+        <abbreviation name="ast" />
       </action>
     </abbreviations>
   </component>
