@@ -141,6 +141,7 @@
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
     <EXCLUDED_PACKAGE NAME="org.jruby.util.log.LoggerFactory" />
     <EXCLUDED_PACKAGE NAME="org.json.simple" />
+    <EXCLUDED_PACKAGE NAME="org.junit.platform" />
     <EXCLUDED_PACKAGE NAME="org.mockito.cglib" />
     <EXCLUDED_PACKAGE NAME="org.mockito.cglib.beans.ImmutableBean" />
     <EXCLUDED_PACKAGE NAME="org.mozilla.javascript" />
