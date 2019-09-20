@@ -20,7 +20,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="command" type="Bash" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="path" type="PLAIN_TEXT" />
@@ -31,10 +32,11 @@
       <mapping pattern="_list" type="PLAIN_TEXT" />
       <mapping pattern="_rotated-flipped" type="PLAIN_TEXT" />
       <mapping pattern="_larger" type="PLAIN_TEXT" />
+      <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping pattern="fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="_variables" type="PLAIN_TEXT" />
-      <mapping pattern="_stacked" type="PLAIN_TEXT" />
+      <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="font-awesome" type="PLAIN_TEXT" />
       <mapping pattern="_spinning" type="PLAIN_TEXT" />
@@ -42,8 +44,7 @@
       <mapping pattern="_path" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
-      <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
-      <mapping pattern="mixins" type="PLAIN_TEXT" />
+      <mapping pattern="_stacked" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern="spinning" type="PLAIN_TEXT" />
@@ -51,14 +52,14 @@
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="_icons" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
-      <mapping ext="jfr" type="PLAIN_TEXT" />
-      <mapping ext="javaopts" type="PLAIN_TEXT" />
-      <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="ktl" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="jfr" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="javaopts" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="elsql" type="SQL" />
       <mapping ext="template" type="YAML" />
@@ -68,6 +69,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="command" type="Bash" />
     </extensionMap>
   </component>
 </application>
