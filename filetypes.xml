@@ -21,7 +21,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="command" type="Bash" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="path" type="PLAIN_TEXT" />
@@ -63,7 +62,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="elsql" type="SQL" />
       <mapping ext="template" type="YAML" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
