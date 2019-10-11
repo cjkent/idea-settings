@@ -7,6 +7,7 @@
     <notification groupId="Database editor log" displayType="NONE" />
     <notification groupId="Database log" displayType="NONE" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
     <notification groupId="Flex messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
