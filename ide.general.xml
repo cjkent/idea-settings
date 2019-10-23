@@ -15,6 +15,7 @@
     <entry key="ide.projectView.globalOptions" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="396" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="suppress.focus.stealing.disable.auto.request.focus" value="true" />
+    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
   </component>
 </application>
