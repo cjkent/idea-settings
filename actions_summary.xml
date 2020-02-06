@@ -2,6 +2,30 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="CloseContent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984228921" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984261785" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Branches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984233929" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoClass">
           <value>
             <ActionSummary>
@@ -26,19 +50,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Tree-selectChild">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984260352" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1580983258816" />
-              <option name="times" value="2" />
+              <option name="last" value="1580984260176" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1580983260433" />
-              <option name="times" value="6" />
+              <option name="last" value="1580984261680" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -47,6 +79,14 @@
             <ActionSummary>
               <option name="last" value="1580983264043" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.QuickListPopupAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984233457" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -79,6 +119,14 @@
             <ActionSummary>
               <option name="last" value="1580983252436" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580984241962" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
