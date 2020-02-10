@@ -29,8 +29,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348970281" />
-              <option name="times" value="5" />
+              <option name="last" value="1581355673906" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348971945" />
-              <option name="times" value="3" />
+              <option name="last" value="1581355686265" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350944190" />
-              <option name="times" value="129" />
+              <option name="last" value="1581355678987" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350946735" />
-              <option name="times" value="17" />
+              <option name="last" value="1581355659580" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorDuplicate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350956040" />
-              <option name="times" value="6" />
+              <option name="last" value="1581355659073" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581346839355" />
-              <option name="times" value="25" />
+              <option name="last" value="1581355657420" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,16 +461,16 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350917061" />
-              <option name="times" value="18" />
+              <option name="last" value="1581355664811" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348996829" />
-              <option name="times" value="4" />
+              <option name="last" value="1581355690778" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="Vcs.QuickListPopupAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350916487" />
-              <option name="times" value="23" />
+              <option name="last" value="1581355664227" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -934,6 +934,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581021904515" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581355667620" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
