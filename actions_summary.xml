@@ -29,16 +29,16 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348139811" />
-              <option name="times" value="4" />
+              <option name="last" value="1581348970281" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348165460" />
-              <option name="times" value="7" />
+              <option name="last" value="1581349132723" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348142561" />
-              <option name="times" value="2" />
+              <option name="last" value="1581348971945" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348097763" />
-              <option name="times" value="121" />
+              <option name="last" value="1581348995997" />
+              <option name="times" value="128" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,16 +237,16 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348071371" />
-              <option name="times" value="29" />
+              <option name="last" value="1581348995454" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348102250" />
-              <option name="times" value="20" />
+              <option name="last" value="1581348968652" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581347875177" />
-              <option name="times" value="199" />
+              <option name="last" value="1581348967305" />
+              <option name="times" value="200" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,16 +461,16 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344903281" />
-              <option name="times" value="11" />
+              <option name="last" value="1581349540721" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348156388" />
-              <option name="times" value="3" />
+              <option name="last" value="1581348996829" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="SelectNextOccurrence">
           <value>
             <ActionSummary>
-              <option name="last" value="1581347784262" />
-              <option name="times" value="10" />
+              <option name="last" value="1581348965339" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,16 +757,16 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348172985" />
-              <option name="times" value="1" />
+              <option name="last" value="1581349545550" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Vcs.QuickListPopupAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348172285" />
-              <option name="times" value="14" />
+              <option name="last" value="1581349545138" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,16 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344905142" />
-              <option name="times" value="3" />
+              <option name="last" value="1581349537951" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581349542687" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
