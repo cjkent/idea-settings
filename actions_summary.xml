@@ -189,8 +189,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931261190" />
-              <option name="times" value="74" />
+              <option name="last" value="1582055664516" />
+              <option name="times" value="75" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931288286" />
-              <option name="times" value="230" />
+              <option name="last" value="1582055662763" />
+              <option name="times" value="234" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931230586" />
-              <option name="times" value="213" />
+              <option name="last" value="1582055654801" />
+              <option name="times" value="222" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +349,16 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931145616" />
-              <option name="times" value="30" />
+              <option name="last" value="1582055653822" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931261640" />
-              <option name="times" value="382" />
+              <option name="last" value="1582055655732" />
+              <option name="times" value="385" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931347063" />
-              <option name="times" value="190" />
+              <option name="last" value="1582055663702" />
+              <option name="times" value="191" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847998163" />
-              <option name="times" value="13" />
+              <option name="last" value="1582055657542" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966750250" />
-              <option name="times" value="14" />
+              <option name="last" value="1582055631134" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
