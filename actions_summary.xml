@@ -5,8 +5,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1580992956296" />
-              <option name="times" value="2" />
+              <option name="last" value="1582750654294" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581848947067" />
-              <option name="times" value="22" />
+              <option name="last" value="1582750657132" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582467867650" />
-              <option name="times" value="16" />
+              <option name="last" value="1582750657966" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
