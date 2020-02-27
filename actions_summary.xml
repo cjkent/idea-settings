@@ -109,8 +109,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931617844" />
-              <option name="times" value="7" />
+              <option name="last" value="1582839344763" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -1165,8 +1165,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931620424" />
-              <option name="times" value="2" />
+              <option name="last" value="1582839348925" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>

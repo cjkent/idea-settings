@@ -20,6 +20,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="command" type="Bash" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="path" type="PLAIN_TEXT" />
@@ -38,10 +39,10 @@
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="font-awesome" type="PLAIN_TEXT" />
       <mapping pattern="_rotated-flipped" type="PLAIN_TEXT" />
-      <mapping pattern="bordered-pulled" type="PLAIN_TEXT" />
       <mapping pattern="_path" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
+      <mapping pattern="bordered-pulled" type="PLAIN_TEXT" />
       <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
@@ -67,7 +68,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="command" type="Bash" />
     </extensionMap>
   </component>
 </application>
