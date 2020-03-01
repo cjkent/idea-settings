@@ -18,7 +18,5 @@
     <entry key="suppress.focus.stealing" value="true" />
     <entry key="suppress.focus.stealing.linux" value="true" />
     <entry key="suppress.focus.stealing.auto.request.focus" value="true" />
-    <entry key="suppress.focus.stealing.disable.auto.request.focus" value="true" />
-    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
   </component>
 </application>
