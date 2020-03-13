@@ -22,6 +22,7 @@
     <extensionMap>
       <mapping ext="command" type="Bash" />
       <mapping ext="jenkinsfile" type="Groovy" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
