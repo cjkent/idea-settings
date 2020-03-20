@@ -3,6 +3,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
