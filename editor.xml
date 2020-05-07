@@ -10,6 +10,7 @@
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
+    <EXCLUDED_PACKAGE NAME="jdk.javadoc" />
     <EXCLUDED_PACKAGE NAME="jdk.jfr.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.Logger" />
