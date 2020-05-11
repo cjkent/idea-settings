@@ -16,6 +16,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
