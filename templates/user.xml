@@ -683,4 +683,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="d2" value="($ARG1$, $ARG2$) -&gt; $END$" description="2-item destructuring lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="ARG1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
