@@ -54,6 +54,7 @@
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="javaopts" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ktl" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
