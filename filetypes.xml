@@ -20,6 +20,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -40,8 +41,8 @@
       <mapping pattern="font-awesome" type="PLAIN_TEXT" />
       <mapping pattern="bordered-pulled" type="PLAIN_TEXT" />
       <mapping pattern="_path" type="PLAIN_TEXT" />
-      <mapping pattern="icons" type="PLAIN_TEXT" />
       <mapping pattern="stacked" type="PLAIN_TEXT" />
+      <mapping pattern="icons" type="PLAIN_TEXT" />
       <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping pattern="_bordered-pulled" type="PLAIN_TEXT" />
