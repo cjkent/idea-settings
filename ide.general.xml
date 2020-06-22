@@ -20,6 +20,7 @@
     <entry key="suppress.focus.stealing.auto.request.focus" value="true" />
     <entry key="suppress.focus.stealing.disable.auto.request.focus" value="true" />
     <entry key="suppress.focus.stealing.active.window.checks" value="true" />
+    <entry key="ide.allow.merge.buttons" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
