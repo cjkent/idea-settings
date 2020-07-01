@@ -24,7 +24,12 @@
       <option name="OTHER" value="true" />
       <option name="Python" value="false" />
       <option name="REQUEST" value="false" />
+      <option name="RUST_ATTRIBUTE" value="false" />
       <option name="RUST_FILE" value="false" />
+      <option name="RUST_ITEM" value="false" />
+      <option name="RUST_MOD" value="false" />
+      <option name="RUST_STATEMENT" value="false" />
+      <option name="RUST_STRUCT" value="false" />
       <option name="SQL" value="false" />
     </context>
   </template>
@@ -672,7 +677,12 @@
       <option name="OTHER" value="true" />
       <option name="Python" value="false" />
       <option name="REQUEST" value="false" />
+      <option name="RUST_ATTRIBUTE" value="false" />
       <option name="RUST_FILE" value="false" />
+      <option name="RUST_ITEM" value="false" />
+      <option name="RUST_MOD" value="false" />
+      <option name="RUST_STATEMENT" value="false" />
+      <option name="RUST_STRUCT" value="false" />
       <option name="SQL" value="false" />
       <option name="TypeScript" value="false" />
       <option name="XML" value="false" />
