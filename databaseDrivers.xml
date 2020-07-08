@@ -93,7 +93,7 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="java.sql.Driver" name="Athena" dialect="GenericSQL" driver-class="com.simba.athena.jdbc42.Driver" icon="/icons/driverBlue4.svg">
+    <driver id="java.sql.Driver" name="Amazon Athena" dialect="GenericSQL" driver-class="com.simba.athena.jdbc42.Driver" icon="/providers/presto.svg">
       <url-template name="jdbc:awsathena://athena.[{host::eu-west-1}].amazonaws.com[:{port::443}][\?&lt;;,UID={user:param},PWD={password:param},{:identifier}={:param}&gt;]" template="" />
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
