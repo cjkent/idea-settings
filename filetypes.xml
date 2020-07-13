@@ -47,9 +47,9 @@
       <mapping pattern="fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="path" type="PLAIN_TEXT" />
-      <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
-      <mapping pattern="glyphicons-halflings-regular" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
+      <mapping pattern="glyphicons-halflings-regular" type="PLAIN_TEXT" />
+      <mapping pattern="fontawesome-webfont" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="_fixed-width" type="PLAIN_TEXT" />
       <mapping ext="jfr" type="PLAIN_TEXT" />
@@ -64,6 +64,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="elsql" type="SQL" />
       <mapping ext="template" type="YAML" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
