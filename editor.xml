@@ -5,6 +5,7 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="com.jcraft.jsch.Logger" />
+    <EXCLUDED_PACKAGE NAME="com.simba.athena.shaded" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
