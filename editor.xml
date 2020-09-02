@@ -16,6 +16,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.apache.log4j.spi" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
