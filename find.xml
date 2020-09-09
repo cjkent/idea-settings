@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>log4j2.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.tf</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
