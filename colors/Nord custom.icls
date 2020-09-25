@@ -4,7 +4,7 @@
     <property name="created">2020-02-17T09:28:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-02-17T09:28:34</property>
+    <property name="modified">2020-09-25T13:22:44</property>
     <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -380,7 +380,6 @@
         <option name="FOREGROUND" value="5e81ac" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="81a1c1" />
@@ -391,7 +390,6 @@
         <option name="FOREGROUND" value="88c0d0" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.UNICODE.RANGE">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
@@ -1000,8 +998,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
