@@ -22,7 +22,9 @@
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
+    <EXCLUDED_PACKAGE NAME="org.iq80.leveldb.Logger" />
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
+    <EXCLUDED_PACKAGE NAME="org.mortbay.log.Logger" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
