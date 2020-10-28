@@ -22,6 +22,8 @@
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
+    <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
+    <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
     <EXCLUDED_PACKAGE NAME="org.iq80.leveldb.Logger" />
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
     <EXCLUDED_PACKAGE NAME="org.mortbay.log.Logger" />
