@@ -16,11 +16,13 @@
     <EXCLUDED_PACKAGE NAME="jdk.jfr.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons" />
+    <EXCLUDED_PACKAGE NAME="org.apache.hadoop.yarn.util.Clock" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.spi" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.util.Clock" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
     <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
     <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
