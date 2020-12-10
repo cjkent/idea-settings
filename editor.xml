@@ -1,0 +1,66 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.jcraft.jsch.Logger" />
+    <EXCLUDED_PACKAGE NAME="com.oracle.tools.packager.Log.Logger" />
+    <EXCLUDED_PACKAGE NAME="com.simba.athena.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
+    <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
+    <EXCLUDED_PACKAGE NAME="jdk.internal" />
+    <EXCLUDED_PACKAGE NAME="jdk.javadoc" />
+    <EXCLUDED_PACKAGE NAME="jdk.jfr.internal" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons" />
+    <EXCLUDED_PACKAGE NAME="org.apache.hadoop.yarn.util.Clock" />
+    <EXCLUDED_PACKAGE NAME="org.apache.log4j.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.apache.log4j.spi" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.time.Instant" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core.util.Clock" />
+    <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List" />
+    <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
+    <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
+    <EXCLUDED_PACKAGE NAME="org.iq80.leveldb.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.joda.time" />
+    <EXCLUDED_PACKAGE NAME="org.mortbay.log.Logger" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="11" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="SHOW_INLINE_DIALOG" value="false" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.java.implicit.types" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="java.implicit.types" />
+  </component>
+</application>

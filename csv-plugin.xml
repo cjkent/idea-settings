@@ -1,0 +1,6 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="USE_SOFT_WRAP" value="false" />
+    <option name="TABLE_EDITOR_ROW_HEIGHT" value="1" />
+  </component>
+</application>

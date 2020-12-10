@@ -1,0 +1,250 @@
+<keymap version="1" name="CJ" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id=":cursive.actions.paredit/copy-as-kill">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id=":cursive.actions.paredit/kill-sexp">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-down">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-up">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id=":cursive.actions.paredit/raise">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id=":cursive.actions.paredit/thread-form">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
+  <action id=":cursive.actions.paredit/unthread-form">
+    <keyboard-shortcut first-keystroke="meta alt period" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-quotes">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id=":cursive.repl.actions/search-history">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id=":cursive.repl.actions/sync-files">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id=":cursive.testing.actions/remove-test-markers">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_space" />
+  </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ChangesView.GroupBy.Directory">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.ColumnSortReset" />
+  <action id="Diff.FocusOppositePane">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="Diff.FocusOppositePaneAndScroll">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+    <keyboard-shortcut first-keystroke="shift alt page_up" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <keyboard-shortcut first-keystroke="shift meta multiply" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="HideSideWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl escape" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Images.Editor.ActualSize" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift meta alt back_space" />
+  </action>
+  <action id="Macro.Newline with line comment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
+  <action id="Macro.Reformat Line">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="Macro.append dot to line">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="Macro.join lines, delete">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
+  <action id="Macro.right comma space">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Macro.right space">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
+  <action id="Macro.right space plus space">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="MarkNotificationsAsRead">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="PinToolwindowTab">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="QuickJumpAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="QuickJumpSelectAction">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="QuickList.Clojure">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Scratch.OpenDefaultScratch">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="ctrl alt c" />
+  </action>
+  <action id="Scratch.OpenScratchList">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="ctrl alt s" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="right" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ThePlugin.ShowProjectSettings" />
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
+  <action id="ToggleFloatingMode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Tool_External Tools_Regenerate Joda Bean">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="Unscramble" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="u" />
+  </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="com.johnlindquist.quickjump.QuickJumpSelectFromCaretAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
+  </action>
+  <action id="com.johnlindquist.quickjump.QuickJumpSmartCompletionAction">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+</keymap>

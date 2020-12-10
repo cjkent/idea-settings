@@ -1,0 +1,17 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="RegExp" injector-id="java">
+      <display-name>AbstractCharSequenceAssert.matches (org.assertj.core.api)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.CharSequence").definedInClass("org.assertj.core.api.AbstractCharSequenceAssert"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>Test.expectedExceptionsMessageRegExp (org.testng.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("expectedExceptionsMessageRegExp").withParameters().definedInClass("org.testng.annotations.Test")]]></place>
+    </injection>
+  </component>
+</application>

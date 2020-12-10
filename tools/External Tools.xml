@@ -1,0 +1,37 @@
+<toolSet name="External Tools">
+  <tool name="Scala REPL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/bin/scala" />
+      <option name="PARAMETERS" value="-cp $Classpath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Clojure REPL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/bin/clj-repl-idea" />
+      <option name="PARAMETERS" value="&quot;$Classpath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Regenerate Joda Bean" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="java" />
+      <option name="PARAMETERS" value="-cp &quot;$Classpath$&quot; org.joda.beans.gen.BeanCodeGen -indent=2 $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="DQL dev" description="Execute a DQL query in the dev environment" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="env" />
+      <option name="PARAMETERS" value="AWS_PROFILE=dev LINES=200 COLUMNS=10000 dql -r eu-west-1 -c &quot;$SelectedText$&quot;;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="DQL prod" description="Execute a DQL query in the prod environment" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="env" />
+      <option name="PARAMETERS" value="AWS_PROFILE=prod LINES=200 COLUMNS=10000 dql -r eu-west-1 -c &quot;$SelectedText$&quot;;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

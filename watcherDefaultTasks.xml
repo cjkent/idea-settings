@@ -1,0 +1,46 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-cp “$Classpath$” org.joda.beans.gen.BeanCodeGen -indent=2 $FileDir$/$FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="java" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="Regenerate Joda Beans" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="java" />
+      <option name="runOnExternalChanges" value="false" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <global-watchers>
+      <TaskOptions>
+        <option name="arguments" value="-cp $Classpath$ org.joda.beans.gen.BeanCodeGen -verbose=3 -indent=2 $FileDir$/$FileName$" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ALWAYS" />
+        <option name="fileExtension" value="java" />
+        <option name="immediateSync" value="false" />
+        <option name="name" value="Regenerate Joda Beans" />
+        <option name="output" value="$FilePath$" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="java" />
+        <option name="runOnExternalChanges" value="false" />
+        <option name="scopeName" value="All Places" />
+        <option name="trackOnlyRoot" value="false" />
+        <option name="workingDir" value="$ProjectFileDir$" />
+        <envs />
+      </TaskOptions>
+    </global-watchers>
+  </component>
+</application>
