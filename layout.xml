@@ -32,11 +32,11 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="right" />
+                <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Ant" />
+                <option name="id" value="Event Log" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -44,7 +44,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Event Log" />
+                <option name="id" value="File Transfer" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -69,6 +69,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Problems View" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Layout Validation" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -115,7 +123,7 @@
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="width" value="328" />
+                    <option name="width" value="358" />
                     <option name="height" value="1374" />
                   </Rectangle>
                 </option>
@@ -144,7 +152,15 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Packages" />
+                <option name="id" value="Profiler" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Build" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -156,11 +172,19 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Learn" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="x" value="2179" />
-                    <option name="width" value="381" />
+                    <option name="x" value="2172" />
+                    <option name="width" value="388" />
                     <option name="height" value="1374" />
                   </Rectangle>
                 </option>
@@ -209,11 +233,11 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="right" />
+                <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Ant" />
+                <option name="id" value="Event Log" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -221,7 +245,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Event Log" />
+                <option name="id" value="File Transfer" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -246,6 +270,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Problems View" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Layout Validation" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -291,14 +323,10 @@
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="width" value="255" />
-                    <option name="height" value="834" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Project" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
@@ -321,7 +349,15 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Packages" />
+                <option name="id" value="Profiler" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Build" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -333,17 +369,20 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Learn" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="x" value="1166" />
-                    <option name="width" value="274" />
-                    <option name="height" value="834" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Structure" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
