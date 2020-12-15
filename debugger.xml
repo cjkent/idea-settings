@@ -553,7 +553,7 @@
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="DefaultLookupRatesProvider" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.measure.rate.DefaultLookupRatesProvider" />
@@ -563,7 +563,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="RepeatedScenarioMarketData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.scenario.RepeatedScenarioMarketData" />
@@ -573,7 +573,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="InterpolatedNodalCurve" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.market.curve.InterpolatedNodalCurve" />
@@ -583,7 +583,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="MarginingCurveData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.MarginingCurveData" />
@@ -593,7 +593,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="RatesCurveGroup" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.market.curve.RatesCurveGroup" />
@@ -603,7 +603,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="EurexScenarioData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.market.EurexScenarioData" />
@@ -613,7 +613,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="ImmutableScenarioMarketData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.scenario.ImmutableScenarioMarketData" />
@@ -623,7 +623,7 @@
           <option name="LABEL_EXPRESSION" value="&quot;ImmutableScenarioMarketData {scenarioCount: &quot; + this.getScenarioCount() + &quot;}&quot;&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="EurexVersionedMarginData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.service.marketdata.conversion.large.eurex.EurexVersionedMarginData" />
@@ -633,7 +633,7 @@
           <option name="LABEL_EXPRESSION" value="&quot;EurexVersionedMarginData {valuationDate: &quot; + this.getValuationDate() + &quot;, scenarios: &quot; + this.getData().getMarketData().keySet() + &quot;}&quot;&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="Eurex ImmutableMarginData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.margining.eurex.prisma.impl.data.ImmutableMarginData" />
@@ -643,7 +643,7 @@
           <option name="LABEL_EXPRESSION" value="&quot;ImmutableMarginData {valuationDate: &quot; + this.getValuationDate() + &quot;, scenarios: &quot; + this.getMarketData().keySet() + &quot;}&quot;&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="ReferenceData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.basics.ReferenceData" />
@@ -653,7 +653,7 @@
           <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="MarketData" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.opengamma.strata.data.MarketData" />
@@ -669,17 +669,14 @@
     <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
