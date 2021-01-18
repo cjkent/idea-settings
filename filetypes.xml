@@ -41,10 +41,10 @@
       <mapping pattern="_core" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
-      <mapping pattern="fixed-width" type="PLAIN_TEXT" />
+      <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
       <mapping pattern="_list" type="PLAIN_TEXT" />
       <mapping pattern="_larger" type="PLAIN_TEXT" />
-      <mapping pattern="rotated-flipped" type="PLAIN_TEXT" />
+      <mapping pattern="fixed-width" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
