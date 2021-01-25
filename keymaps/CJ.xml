@@ -209,6 +209,9 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="down" />
   </action>
