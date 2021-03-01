@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Hosts.Settings">
+    <option name="TRUSTED_HOSTS">
+      <list>
+        <option value="github.com/OpenGamma" />
+      </list>
+    </option>
+  </component>
+</application>
