@@ -99,7 +99,7 @@
                   </entry>
                   <entry key="JBossConfiguration">
                     <value>
-                      <FeaturePluginData displayName="JBoss Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
+                      <FeaturePluginData displayName="JBoss/WildFly Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JUnit">
