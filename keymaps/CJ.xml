@@ -169,6 +169,9 @@
   <action id="MarkNotificationsAsRead">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
