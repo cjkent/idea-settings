@@ -225,6 +225,14 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Space Code Reviews" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
@@ -273,14 +281,6 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Layout Validation" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle />
@@ -326,6 +326,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Project" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Space Automation" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
