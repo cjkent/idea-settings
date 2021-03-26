@@ -27,6 +27,7 @@
     <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
     <EXCLUDED_PACKAGE NAME="org.h2.command.dml.Set" />
     <EXCLUDED_PACKAGE NAME="org.iq80.leveldb.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.jetbrains.annotations.VisibleForTesting" />
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
     <EXCLUDED_PACKAGE NAME="org.mortbay.log.Logger" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
@@ -36,6 +37,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
