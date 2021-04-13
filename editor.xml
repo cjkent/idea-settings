@@ -30,6 +30,7 @@
     <EXCLUDED_PACKAGE NAME="org.jetbrains.annotations.VisibleForTesting" />
     <EXCLUDED_PACKAGE NAME="org.joda.time" />
     <EXCLUDED_PACKAGE NAME="org.mortbay.log.Logger" />
+    <EXCLUDED_PACKAGE NAME="org.testng.log4testng" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
