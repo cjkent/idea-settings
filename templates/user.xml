@@ -12,25 +12,15 @@
     <context>
       <option name="AsciiDoc" value="false" />
       <option name="Bash" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="Django" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="HTML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JSON" value="false" />
-      <option name="JSP" value="false" />
-      <option name="MAVEN" value="false" />
       <option name="OTHER" value="true" />
       <option name="Python" value="false" />
-      <option name="REQUEST" value="false" />
       <option name="RUST_ATTRIBUTE" value="false" />
       <option name="RUST_FILE" value="false" />
       <option name="RUST_ITEM" value="false" />
       <option name="RUST_MOD" value="false" />
       <option name="RUST_STATEMENT" value="false" />
       <option name="RUST_STRUCT" value="false" />
-      <option name="SQL" value="false" />
     </context>
   </template>
   <template name="lnk" value="{@link $TEXT$}$END$" description="Javadoc link" toReformat="false" toShortenFQNames="true">
