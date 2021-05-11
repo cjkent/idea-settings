@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/dev/opengamma" />
+        <option value="$USER_HOME$/dev" />
       </list>
     </option>
   </component>
