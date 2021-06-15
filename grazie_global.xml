@@ -2,8 +2,8 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="LanguageTool.EN.PASSIVE_VOICE" />
         <option value="LanguageTool.EN.COMMA_BEFORE_AND" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
   </component>
