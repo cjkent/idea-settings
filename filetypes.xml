@@ -20,6 +20,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -69,7 +70,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
       <mapping ext="command" type="Bash" />
     </extensionMap>
   </component>
