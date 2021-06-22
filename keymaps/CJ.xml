@@ -75,6 +75,9 @@
   <action id="ChangesView.GroupBy.Directory">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="CloseAllNotifications">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
