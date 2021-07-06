@@ -11,6 +11,8 @@
         <option name="suppressed">
           <set>
             <option value="the secrets manager containing" />
+            <option value="a secrets manager client" />
+            <option value="Creates a secrets manager client" />
           </set>
         </option>
       </SuppressingContext>
