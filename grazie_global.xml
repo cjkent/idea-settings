@@ -6,5 +6,14 @@
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="the secrets manager containing" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
   </component>
 </application>
