@@ -38,11 +38,6 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="11" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -59,14 +54,15 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.java.implicit.types" />
+        <option value="JAVA.vcs.code.author" />
+        <option value="kotlin.vcs.code.author" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="java.implicit.types" />
+    <option name="lastViewedProviderKeyId" value="vcs.code.author" />
   </component>
 </application>
