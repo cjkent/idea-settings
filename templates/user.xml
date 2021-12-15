@@ -57,7 +57,7 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="fr" value="for (int $VAR$ = 0; $VAR$ &lt; $SIZE$; $VAR$++) {&#10;    $END$&#10;}" description="for loop" toReformat="true" toShortenFQNames="true">
+  <template name="fr" value="for (var $VAR$ = 0; $VAR$ &lt; $SIZE$; $VAR$++) {&#10;    $END$&#10;}" description="for loop" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

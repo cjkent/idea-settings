@@ -175,6 +175,9 @@
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>

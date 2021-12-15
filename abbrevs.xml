@@ -4,6 +4,9 @@
       <action id="$LRU">
         <abbreviation name="or" />
       </action>
+      <action id="CompileProject">
+        <abbreviation name="rp" />
+      </action>
       <action id="CloseProject">
         <abbreviation name="cp" />
       </action>
