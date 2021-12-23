@@ -676,4 +676,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="twr" value="try (var $END$) {&#10;  &#10;}" description="try-with-resources" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
