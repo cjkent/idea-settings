@@ -7,7 +7,6 @@
     <EXCLUDED_PACKAGE NAME="com.jcraft.jsch.Logger" />
     <EXCLUDED_PACKAGE NAME="com.oracle.tools.packager.Log.Logger" />
     <EXCLUDED_PACKAGE NAME="com.simba.athena.shaded" />
-    <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="fastparse.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
