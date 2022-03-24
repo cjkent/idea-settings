@@ -12,6 +12,7 @@
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
+    <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.javadoc" />
     <EXCLUDED_PACKAGE NAME="jdk.jfr.internal" />
